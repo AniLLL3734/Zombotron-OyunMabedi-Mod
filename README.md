@@ -29,6 +29,9 @@ Bu proje tamamen hayran yapımı (fan-made) bir modifikasyondur. Kâr amacı gü
 ## 📥 Kurulum & Oynanış
 Sadece sağ taraftaki **Releases (Sürümler)** bölümünden `OyunMabedi Zombotron 1.exe` dosyasını indirerek hemen oynamaya başlayabilirsiniz. Eğer sadece SWF dosyasını kullanmak isterseniz `Zombotron_OyunMabedi.swf` dosyasını herhangi bir Flash oynatıcı ile açabilirsiniz.
 
+## 🐛 Bilinen Hatalar (Bugs)
+- **Buton Kaymaları:** Bu sürüm henüz v1.0 olduğu için, çözünürlük veya pencere boyutu değişimlerinde bazı menü butonlarında ufak görsel kaymalar yaşanabilmektedir. Gelecek sürümlerde düzeltilecektir.
+
 ## 🙏 Teşekkürler (Special Thanks to Ant Karlov)
 Bu muhteşem oyunun asıl yaratıcısı ve çocukluğumuzun kahramanı olan **Ant Karlov**'a sonsuz teşekkürler. Zombotron serisi bir efsanedir ve bu mod tamamen bu efsaneye duyulan sevgiyle ortaya çıkmıştır.
 Bütün haklar orijinal yapımcıya aittir. All original rights belong to Ant Karlov.
@@ -62,6 +65,9 @@ This project is entirely a fan-made modification and is non-profit.
 
 ## 📥 Installation & How to Play
 Simply download the `OyunMabedi Zombotron 1.exe` file from the **Releases** section on the right to start playing immediately. If you prefer using just the SWF file, you can open `Zombotron_OyunMabedi.swf` with any Flash Player.
+
+## 🐛 Known Bugs
+- **Button Misalignments:** Since this is the v1.0 release, you may experience slight visual misalignments with some menu buttons when the resolution or window size changes. This will be fixed in future updates.
 
 ## 🙏 Special Thanks to Ant Karlov
 Endless thanks to **Ant Karlov**, the original creator of this amazing game and a hero of our childhood. The Zombotron series is a legend, and this mod was born purely out of love for this legend.
