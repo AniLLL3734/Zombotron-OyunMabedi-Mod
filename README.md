@@ -6,8 +6,6 @@
 
 [English Version Below](#english-version)
 
-Eski zamanların o hantal, bekleme ekranlarıyla dolu Zombotron'unu alıp, tamamen kurşun geçirmez ve yıldırım hızında bir yapıya büründürdük. Yükleme barlarını ve o bitmek bilmeyen logoları boşver; karanlığa daha hızlı dalman için her şeyi değiştirdik.
-
 Bu proje tamamen hayran yapımı (fan-made) bir modifikasyondur. Kâr amacı gütmez. 
 
 ---
@@ -44,8 +42,6 @@ Bütün haklar orijinal yapımcıya aittir. All original rights belong to Ant Ka
 
 <a name="english-version"></a>
 # Zombotron 1 - OyunMabedi Mod 🧟‍♂️🎮
-
-We took the clunky, loading-screen-filled Zombotron of the old days and transformed it into a bulletproof, lightning-fast experience. Forget the loading bars and endless logos; we've changed everything so you can dive into the darkness faster.
 
 This project is entirely a fan-made modification and is non-profit.
 
